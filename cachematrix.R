@@ -1,5 +1,5 @@
-## These two functions compute and cache the inverse of a matrix
-## if a matrix' inverse has already been calculated, it will fetch its inverse from the cache
+## These two functions compute and cache the inverse of a matrix.
+## If a matrix' inverse has already been calculated, it will fetch its inverse from the cache
 ## instead of computing it again.
 
 ## This first function creates a list of functions to: 
